@@ -1,0 +1,21 @@
+/* Soluzione qui */
+
+/* modalità tablet */
+
+@media  screen and ( max-width 768px){
+    .logo{
+        align-items: start;
+
+    }
+    .main{
+        padding: ;
+    }
+    .recipe-title{
+
+    }
+} 
+  
+/* Modalità Desktop */
+
+@media  screen and ( max-width 992px)
+    
